@@ -1,6 +1,6 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://azat.co/blog",
     "name": "Living The Dream",
     "owner": "Azat",
     "description": "Azat's personal weblog"
