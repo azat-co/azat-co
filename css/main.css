@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Rufina:400,700|Raleway:400,700);
 
 body {
-  background-image: url('../img/ticks.png');  
+  background-image: url('../img/ticks.png');
   font-size:13.5pt;
 }
 
@@ -32,10 +32,11 @@ a.trick: hover{
 }
 
 body {
-  font-family: 'Rufina', serif;
+  font-family: 'Raleway', sans-serif;
 }
 h1,h2 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Rufina', serif;
+
 }
 a {
   color: rgb(148, 19, 19);
