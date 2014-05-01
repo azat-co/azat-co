@@ -204,7 +204,7 @@ footer .copy, footer .copy a {
 }
 
 .article.intro .content p {
-  display: inline;
+  /*display: inline;*/
 }
 
 .article.intro .content .more {
@@ -435,3 +435,6 @@ code.lang-markdown .bullet {
   }
 }
 
+.social {
+  text-align: center;
+}
