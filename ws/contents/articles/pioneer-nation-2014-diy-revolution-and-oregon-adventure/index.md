@@ -1,5 +1,5 @@
 ---
-title: Pioneer Nation 2014, D.I.Y. Revolutin and Oregon Adventure
+title: Pioneer Nation 2014, D.I.Y. Revolution and Oregon Adventure
 author: azat
 date: 2014-04-30 23:00
 template: article.jade
