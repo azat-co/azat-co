@@ -5,7 +5,7 @@ module.exports = (env, callback) ->
 
   defaults =
     template: 'index.jade' # template that renders pages
-    articles: 'articles' # directory containing contents to paginate
+    articles: '' # directory containing contents to paginate
     first: 'index.html' # filename/url for first page
     filename: 'page/%d/index.html' # filename for rest of pages
     perPage: 2 # number of articles per page
@@ -18,8 +18,14 @@ module.exports = (env, callback) ->
   getArticles = (contents) ->
     # helper that returns a list of articles found in *contents*
     # note that each article is assumed to have its own directory in the articles directory
-    articles = contents[options.articles]._.directories.map (item) -> item.index
+    unless options.articles
+      articles = []
+      for key, value of contents
+        if value['index.md']? and value['index.md'].metadata?.template is 'article.jade' then articles.push value['index.md']
+    else
+      articles = contents[options.articles]._.directories.map (item) -> item.index
     articles.sort (a, b) -> b.date - a.date
+
     return articles
 
   class PaginatorPage extends env.plugins.Page
@@ -73,6 +79,7 @@ module.exports = (env, callback) ->
     # create the object that will be merged with the content tree (contents)
     # do _not_ modify the tree directly inside a generator, consider it read-only
     rv = {pages:{}}
+    console.log '***', pages
     for page in pages
       rv.pages["#{ page.pageNum }.page"] = page # file extension is arbitrary
     rv['index.page'] = pages[0] # alias for first page
