@@ -21,5 +21,4 @@ Extremely fresh and meaty oysters at the marina cafe.
 ![](http://photos-e.ak.instagram.com/hphotos-ak-prn/1170533_630359280365420_1087288531_n.jpg)
 An hour spent manivering between hustling people.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/jKRsCWhszzw" frameborder="0" allowfullscreen></iframe>
-The Road to Ensenada by Lyle Lovett
+
