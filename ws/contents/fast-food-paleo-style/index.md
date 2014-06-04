@@ -5,9 +5,6 @@ date: 2014-06-04 15:00
 template: article.jade
 ---
 
-
-
-
 Oftentimes, we are on the go, have to travel or just want to indulge in the staple of the [standard American diet](http://en.wikipedia.org/wiki/Standard_American_Diet) (SAD) — fast food. Personally, I find most fast food restaurants convenient. They are quick, offer a good value and have  predictable quality.
 
 ![](http://photos-h.ak.instagram.com/hphotos-ak-xfp1/10354485_1503576039861887_341941421_n.jpg)
