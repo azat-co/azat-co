@@ -5,9 +5,39 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Thu, 14  Aug 2014 15:00:00 -0700</pubDate>
+    <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Free&amp;Easy Hosting</title>
+      <link>http://azat.co/blog/github-pages/</link>
+      <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/github-pages/</guid>
+      <author></author>
+      <description>&lt;p&gt;Tech advice: if you need a simple website for you project, then use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub pages&lt;/a&gt;. It’s free and better than cheap $4.99/mo hosting, which can be easily hacked, is slow and requires you to use cPanel.&lt;/p&gt;
+&lt;p&gt;Here’s what you’ll need to get your website up and running:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create account on GitHub (do it once).&lt;/li&gt;
+&lt;li&gt;Create a new repository.&lt;/li&gt;
+&lt;li&gt;Send your developer a link to that repository, and a Twitter Bootstrap theme of your choice (Google it if you don’t know where to get a beatiful theme).&lt;/li&gt;
+&lt;li&gt;Point your CNAME records in Godaddy, or whatever you’re using, to GitHub IPs (192.30.252.153 and 192.30.252.154).&lt;/li&gt;
+&lt;li&gt;Merge pull request from you developer on GitHub.com.&lt;/li&gt;
+&lt;li&gt;Boom! You’ve got your website.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I use this technique for my 10+ websites, some of them quite fancy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://rpjs.co&quot;&gt;http://rpjs.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://150x.co&quot;&gt;http://150x.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://azat.co&quot;&gt;http://azat.co&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://proexpressjs.com&quot;&gt;http://proexpressjs.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://expressjsguide.com&quot;&gt;http://expressjsguide.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://azat.co/blog&quot;&gt;http://azat.co/blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nodeprogram.com&quot;&gt;http://nodeprogram.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There’s no need for WordPress or PHP. GitHub Pages is free and it is faster than BlueHost.&lt;/p&gt;
+&lt;p&gt;The site must be static only without any PHP, Node.js or any other server-side logic. You can use &lt;a href=&quot;http://www.foxyform.com&quot;&gt;foxyform&lt;/a&gt; or &lt;a href=&quot;http://www.emailmeform.com&quot;&gt;EmailMeForm&lt;/a&gt; for contact forms, and &lt;a href=&quot;http://gumroad.com&quot;&gt;Gumroad&lt;/a&gt; for sales. For blogs, you can use &lt;a href=&quot;http://wintersmith.io&quot;&gt;Wintersmith&lt;/a&gt; or &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Man vs. BBQ</title>
       <link>http://azat.co/blog/man-vs-bbq/</link>
