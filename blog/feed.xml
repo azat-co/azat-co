@@ -5,9 +5,19 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
+    <pubDate>Thu, 07 May 2015 15:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Ignorance is a Bliss</title>
+      <link>http://azat.co/blog/ignorance/</link>
+      <pubDate>Thu, 07 May 2015 15:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/ignorance/</guid>
+      <author></author>
+      <description>&lt;p&gt;Be ignorant about everything except two or three things you are really interested about. Those things are your priorities and dream goals. Everything else is a distraction.&lt;/p&gt;
+&lt;p&gt;The myth that we can do everything, should know about a variety of subjects and accomplish everything is just a myth. &lt;strong&gt;You cannot be everywhere and do everything…&lt;/strong&gt; If you try, the outcome is mediocrity.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Free&amp;Easy Hosting</title>
       <link>http://azat.co/blog/github-pages/</link>
