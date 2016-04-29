@@ -5,13 +5,27 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Tue, 24 Nov 2015 11:00:00 +0100</pubDate>
+    <pubDate>Fri, 29 Apr 2016 08:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>The Fisherman and the Businessman B.S.</title>
+      <link>http://azat.co/blog/fisherman-and-businessman/</link>
+      <pubDate>Fri, 29 Apr 2016 08:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/fisherman-and-businessman/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/blog/fisherman-and-businessman/fish.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Have you heard the preamble about &lt;a href=&quot;http://paulocoelhoblog.com/2015/09/04/the-fisherman-and-the-businessman&quot;&gt;the fisherman and the businessman&lt;/a&gt;? It’s often told in a feel-good blogs and talks. The fisherman’s nationality varies from Brazilian to Mexican, but the gist is that you don’t have to strive for success and achievement. If all you want to do if is to fish and go home early, then you can start doing it now (fisherman). In other words, if your goal is to relax after you’ve made money (businessman), then why not skip making money part and relax now ?&lt;/p&gt;
+&lt;p&gt;I think it’s utterly &lt;strong&gt;bullshit&lt;/strong&gt;—and potentially dangerous for those who take its advice seriously—for three reasons. The first is simple: the story don’t take into consideration &lt;em&gt;risks&lt;/em&gt;. Let’s say your family member gets sick. If you have the money, you can send him/her to a good hospital. This is not an option for a poor fisherman. &lt;/p&gt;
+&lt;p&gt;Another reason is the experience, adventure, the thrill and &lt;em&gt;satisfaction&lt;/em&gt; of making money, doing well in your craft (fishing and business management), career or business. This is the reward in itself for most people in the world of business. Think of it as the journey which will make you a better person. If all you do is fish, go home early and relax, then you are not challenging yourself enough. You’re not growing in your craft or skills.&lt;/p&gt;
+&lt;p&gt;The last reason is that if you just fish for your family, then you deprive other of the fruits of your labor. If you’re any good (and with practice and time you should become good at pretty much any trade), then you’ll be depriving others, e.g., people in a seafood market, of your fish. So staying at your current level and not taking it bigger is stealing from society. &lt;strong&gt;It’s selfish&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Don’t believe all the stupid stories you read or hear from the so called gurus of life. Think for yourself!&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Success is Boring</title>
       <link>http://azat.co/blog/success-is-boring/</link>
-      <pubDate>Tue, 24 Nov 2015 11:00:00 +0100</pubDate>
+      <pubDate>Tue, 24 Nov 2015 11:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/success-is-boring/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/success-is-boring/success-is-boring.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -25,7 +39,7 @@
     <item>
       <title>Pursuit of Happiness as The Major Source of Unhappiness or Why Happiness is Overrated</title>
       <link>http://azat.co/blog/happiness/</link>
-      <pubDate>Sat, 18 Jul 2015 12:05:00 +0200</pubDate>
+      <pubDate>Sat, 18 Jul 2015 12:05:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/happiness/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/happiness/cactus.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -43,7 +57,7 @@
     <item>
       <title>YOLO</title>
       <link>http://azat.co/blog/yolo/</link>
-      <pubDate>Fri, 15 May 2015 15:00:00 +0200</pubDate>
+      <pubDate>Fri, 15 May 2015 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/yolo/</guid>
       <author></author>
       <description>&lt;p&gt;You only live once, but not in the context of how most people think about this phrase such as: party, drink, reward or entertain yourself. In other words, they justify some epicurean activities.&lt;/p&gt;
@@ -54,7 +68,7 @@
     <item>
       <title>Ignorance is a Bliss</title>
       <link>http://azat.co/blog/ignorance/</link>
-      <pubDate>Thu, 07 May 2015 15:00:00 +0200</pubDate>
+      <pubDate>Thu, 07 May 2015 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/ignorance/</guid>
       <author></author>
       <description>&lt;p&gt;Be ignorant about everything except two or three things you are really interested about. Those things are your priorities and dream goals. Everything else is a distraction.&lt;/p&gt;
@@ -64,7 +78,7 @@
     <item>
       <title>Free&amp;Easy Hosting</title>
       <link>http://azat.co/blog/github-pages/</link>
-      <pubDate>Thu, 22 Jan 2015 15:00:00 +0100</pubDate>
+      <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/github-pages/</guid>
       <author></author>
       <description>&lt;p&gt;Tech advice: if you need a simple website for your project, then use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub pages&lt;/a&gt;. It’s free and better than cheap $4.99/mo hosting, which can be easily hacked, is slow and requires you to use cPanel.&lt;/p&gt;
@@ -94,7 +108,7 @@
     <item>
       <title>Man vs. BBQ</title>
       <link>http://azat.co/blog/man-vs-bbq/</link>
-      <pubDate>Thu, 14  Aug 2014 15:00:00 +0200</pubDate>
+      <pubDate>Thu, 14  Aug 2014 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/man-vs-bbq/</guid>
       <author></author>
       <description>&lt;p&gt;Inspired by the famous TV show Man vs. Food, I went on a 7-day BBQ challenge. &lt;em&gt;Please don’t try this at home&lt;/em&gt;.&lt;/p&gt;
@@ -107,7 +121,7 @@
     <item>
       <title>All Restaurants Are Bad</title>
       <link>http://azat.co/blog/all-restaurants-are-bad/</link>
-      <pubDate>Tue, 05  Aug 2014 15:00:00 +0200</pubDate>
+      <pubDate>Tue, 05  Aug 2014 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/all-restaurants-are-bad/</guid>
       <author></author>
       <description>&lt;p&gt;We love to go out and treat ourselves to nice meals! But it’s unhealty, because almost all US restaurants are bad for you in &lt;a href=&quot;http://azat.co/blog/fast-food-paleo-style&quot;&gt;the long run&lt;/a&gt;. Why? This is a common sense and it has to do with us when we favor cheaper places.&lt;/p&gt;
@@ -125,7 +139,7 @@
     <item>
       <title>Paleo is Like Having Superpowers</title>
       <link>http://azat.co/blog/paleo-superpowers/</link>
-      <pubDate>Wed, 16 Jul 2014 11:00:00 +0200</pubDate>
+      <pubDate>Wed, 16 Jul 2014 11:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleo-superpowers/</guid>
       <author></author>
       <description>&lt;p&gt;Over the years of being on a paleo lifestyle, I’ve noticed that I don’t want to go back to the S.A.D (Standard American Diet), for the reason that living on paleo feel is akin to &lt;strong&gt;having superpowers&lt;/strong&gt;. I just don’t want to give up these perks:&lt;/p&gt;
@@ -144,7 +158,7 @@
     <item>
       <title>Fast Food Paleo Style</title>
       <link>http://azat.co/blog/fast-food-paleo-style/</link>
-      <pubDate>Wed, 04 Jun 2014 15:00:00 +0200</pubDate>
+      <pubDate>Wed, 04 Jun 2014 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/fast-food-paleo-style/</guid>
       <author></author>
       <description>&lt;p&gt;Oftentimes, we are on the go, have to travel or just want to indulge in the staple of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Standard_American_Diet&quot;&gt;standard American diet&lt;/a&gt; (SAD) — fast food. Personally, I find most fast food restaurants convenient. They are quick, offer a good value and have  predictable quality.&lt;/p&gt;
@@ -171,7 +185,7 @@
     <item>
       <title>The Road to Ensenada</title>
       <link>http://azat.co/blog/road-to-ensenada/</link>
-      <pubDate>Thu, 29 May 2014 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 29 May 2014 09:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/road-to-ensenada/</guid>
       <author></author>
       <description>&lt;p&gt;Ensenada, Baja California, Mexico is only 9-11 hours driving from the Bay Area. It’s a relatively large port city that serves as tourist cruises port of call. It has nice Pacific Ocean views and great seafood. The commerce is thriving on the US border with street vendors, acrobats and windshield window washers.&lt;/p&gt;
@@ -190,7 +204,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>The Crimean War</title>
       <link>http://azat.co/blog/the-crimean-war/</link>
-      <pubDate>Wed, 07 May 2014 14:00:00 +0200</pubDate>
+      <pubDate>Wed, 07 May 2014 14:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/the-crimean-war/</guid>
       <author></author>
       <description>&lt;p&gt;In lieu of &lt;a href=&quot;http://www.cnn.com/SPECIALS/2014/ukraine/&quot;&gt;events&lt;/a&gt; that started in December 2013 and still are happening in Ukraine (originally part of the Russian Empire and then the USSR), events that resulted in Crimea becoming a part of Russian Federation, I picked up a book about the &lt;a href=&quot;http://en.wikipedia.org/wiki/Crimean_War&quot;&gt;Crimean War&lt;/a&gt; of 1853-56. The book turned out to be a longer than I expected, about 600 pages, but I enjoyed every single page of it because the author gives such a good geopolitical picture of what was going on before and after the war, as well as the atmosphere and trends of the major part of the 19th century. The book is called &lt;strong&gt;The Crimean War: A History by Orlando Figes&lt;/strong&gt; and it’s available in &lt;a href=&quot;http://amzn.to/1krSGWg&quot;&gt;Kindle on Amazon.com&lt;/a&gt;.&lt;/p&gt;
@@ -210,7 +224,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>Pioneer Nation 2014, D.I.Y. Revolution and Oregon Adventure</title>
       <link>http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</link>
-      <pubDate>Wed, 30 Apr 2014 23:00:00 +0200</pubDate>
+      <pubDate>Wed, 30 Apr 2014 23:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</guid>
       <author></author>
       <description>&lt;p&gt;The Pioneer Nation conference was all about living your dream. It was held in Portland, Oregon. I was due for a vacation after &lt;a href=&quot;http://webapplog.com/growth-hacking-the-new-docusign-experience/&quot;&gt;DocuSign Momentum&lt;/a&gt; and always wanted to visit this city, so the excuse was perfect. It turned out to be a perfect rainy getaway from the tiresome dry, sunny, and hot Bay area winter!&lt;/p&gt;
@@ -239,7 +253,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>My First Post</title>
       <link>http://azat.co/blog/my-first-post/</link>
-      <pubDate>Tue, 22 Apr 2014 15:00:00 +0200</pubDate>
+      <pubDate>Tue, 22 Apr 2014 15:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/my-first-post/</guid>
       <author></author>
       <description>&lt;p&gt;I’m starting my personal blog and this is its first post. This blog unlike webapplog will contain &lt;strong&gt;zero coding&lt;/strong&gt;, and lots of musings, instagrams and rants.&lt;/p&gt;
