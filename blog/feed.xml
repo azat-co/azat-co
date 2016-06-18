@@ -5,13 +5,25 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Mon, 04 Jul 2016 11:00:00 -0700</pubDate>
+    <pubDate>Sat, 18 Jun 2016 16:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Not Shy</title>
+      <link>http://azat.co/blog/not-shy/</link>
+      <pubDate>Sat, 18 Jun 2016 16:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/not-shy/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/blog/not-shy/work.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;People tend to think that someone is shy just because he/she is not talking to anyone or not going to social events… Although this might be true, I came to the conclusion that there is another reason.&lt;/p&gt;
+&lt;p&gt;I just want to &lt;strong&gt;do things&lt;/strong&gt; instead of talking. While some conversations are insightful. For example, talking with your colleagues or customers is paramount for maintaining good communication. Other social chat is not just boring but mostly a waste of time.&lt;/p&gt;
+&lt;p&gt;With this in mind, I’m not shy. I’m just biased towards taking action instead of useless talking.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>PaleoFX 2016</title>
       <link>http://azat.co/blog/paleofx-2016/</link>
-      <pubDate>Mon, 04 Jul 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 04 Jun 2016 11:00:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleofx-2016/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/paleofx-2016/panel.jpg&quot; alt=&quot;PaleoFX 2016 Panel: Paleo is growing bigger and business helps it&quot;&gt;&lt;/p&gt;
