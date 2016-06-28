@@ -5,9 +5,22 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Sat, 18 Jun 2016 16:00:00 -0700</pubDate>
+    <pubDate>Mon, 27 Jun 2016 18:00:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Newbie Forever</title>
+      <link>http://azat.co/blog/newbie-forever/</link>
+      <pubDate>Mon, 27 Jun 2016 18:00:00 -0700</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/newbie-forever/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/blog/newbie-forever/Right_before_starting_my_presentation_about_Node_Patterns_From_Callbacks_to_Observer_at__NodePDX__Software__Technology__WebDevelopment__Java__JavaScript__Python__Ruby__Node.js__Angular__React.js__iOS__BigData__FinTech__Startups__Tech__code__program__.jpg&quot; alt=&quot;Right before starting my presentation about Node Patterns: From Callbacks to Observer at NodePDX 2016&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This is a note to myself: the more I can be comfortable being newbie the more I can keep up the pace with current events, tech and apps. The reason being, it’s not enough to master one tech or app and assume it won’t change.&lt;/p&gt;
+&lt;p&gt;With the popularity of SaaS and web apps, they are constantly updated without us even asking us! You can forget about an app and comeback to it six month later—it’ll could be a &lt;strong&gt;completely&lt;/strong&gt; new app. You’ll have to learn where all the menus and buttons all over again. Learn to love it. Future apps will update even faster. Same happens with open source and programming languages.&lt;/p&gt;
+&lt;p&gt;Generally, the more you stay behind the worse the pain of an upgrade later. There is no way around it. Just &lt;em&gt;embrace being newbie forever, because the faster you learn the more comfortable you’ll be in using the recent tech&lt;/em&gt;. &lt;strong&gt;Learning fast is your competitive advantage.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Obviously, you can’t keep re-learning all the things continuously, that’s why focusing on a specific area is paramount. Therefore, focus, learn, re-learn and don’t afraid to be a newbie because being newbie is and will be our normal state. Being newbie is forever.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Not Shy</title>
       <link>http://azat.co/blog/not-shy/</link>
