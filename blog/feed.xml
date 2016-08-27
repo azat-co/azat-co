@@ -5,9 +5,25 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Sat, 27  Aug 2016 08:00:00 +0000</pubDate>
+    <pubDate>Sat, 27  Aug 2016 11:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Why Text is Awesome 📝</title>
+      <link>http://azat.co/blog/text/</link>
+      <pubDate>Sat, 27  Aug 2016 11:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/text/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;/blog/text/harvard-coop.jpg&quot; alt=&quot;Harvard Coop&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Despite voice and video communication becoming cheap, ubiquitous and more popular (VoIP, Skype, FaceTime, WhatsApp, Viber, etc.), this increase create only more and more text communication. Text is so inferior in term of conveying emotions, intonation, and body language to video or even voice. Right? Then why don’t drop it or at least use less and call, FaceTime, Skype each other? Asynchronoucity is one thing, but you can do voice and video asynchronously too, just record and send it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I think text is awesome and will become even more popular exactly because of the thing than makes it terrible&lt;/strong&gt;, that’s desensitization—stripping emotions, body language, character, accent, mood, and other things humans grasp on conscious and subconscious levels. In other words, the same things which are beneficial for better understanding could also be distractions. What?&lt;/p&gt;
+&lt;p&gt;To illustrate my point, when someone is reading &lt;a href=&quot;http://reactquickly.co&quot;&gt;a book on React&lt;/a&gt; they don’t want to be distracted away from an already comprehensive material. Also, text is more precise meaning if it says “221 Main St”, “createElement()” or “8pm” you know that for sure. More over, text is easier to go back to refer to than video or voice with their tiny imprecise sliders.&lt;/p&gt;
+&lt;p&gt;In addition, you can hide a bad mood, a dislike or a passive-aggressive behavior behind text. (I’m not saying that passive-aggressive behavior is good though.) Thus, text leaves more to imagination of a reader which makes the experience more customized and more personal. For example, I hated listening to a fake-accented &lt;em&gt;For Whom the Bell Tolls&lt;/em&gt;; I just despise when narrators think they must mimic all the accents and change pronunciation—just get out of the way a narrator, please get lost… become invisible. I don’t want anything between my experience and the book. Same things happen if I watch YouTube videos where I start noticing the quality, background, hair style, lighting and many other things which distract me from comprehending the message.&lt;/p&gt;
+&lt;p&gt;As far as messengers, I’ve noticed that when you just text with someone and never talk, you have a different mental image of that person. If you ever meet or talk with that person it can feel like being with a stranger. :) Or maybe a lot of people are self-conscious and camera-shy while others don’t like the sound of their own voice?&lt;/p&gt;
+&lt;p&gt;As far as creation, an added benefit of writing is that it forces you to think better. You see, when I started writing this post, I had only an idea, but now there are a few a few arguments and a better formed opinion. You can go back edit, review and edit again while with voice and video you’d have to re-record the entire clip.&lt;/p&gt;
+&lt;p&gt;The bottom line, text is not going away. In fact it’s becoming more popular way of communicating despite the fact that internet speed and data plans allow for video and voice messages. Knowing that, it’s crucial to be as effective as possible (and then some more) at your written communication: emails, social media, messengers, blogging, books, and reports. For these reasons, it’s true to say that &lt;strong&gt;writing is probably the most important skill in life and career&lt;/strong&gt;. Learn how to communicate better via text, practice and use text medium to your advantage.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Stop Reading Biographies</title>
       <link>http://azat.co/blog/bios/</link>
