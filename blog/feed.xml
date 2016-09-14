@@ -5,30 +5,26 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Fri, 09 Sep 2016 15:00:00 +0200</pubDate>
+    <pubDate>Wed, 14 Sep 2016 22:30:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>Don't Move to San Francisco or 7 Reasons Why You Should Avoid Living in the Bay Area</title>
-      <link>http://azat.co/blog/5-not-sf/</link>
-      <pubDate>Fri, 09 Sep 2016 15:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://azat.co/blog/5-not-sf/</guid>
+      <title>Email Filter</title>
+      <link>http://azat.co/blog/email-filter/</link>
+      <pubDate>Wed, 14 Sep 2016 22:30:00 +0200</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/email-filter/</guid>
       <author></author>
-      <description>&lt;p&gt;&lt;img src=&quot;http://azat.co/5-not-sf/I_hate_this_city____sanfrancisco__sanfran__sf__california.jpg&quot; alt=&quot;San Francisco, CA&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I lived fro 5 years in the Bay Area which is San Francisco, Oakland, San Jose, and everything in between them (a.k.a. Silicon Valley). Before that I lived in Washington DC for 6 year.&lt;/p&gt;
-&lt;p&gt;Don’t confuse tourism with immigration if you’ve been in the Bay Area on a brief vacation and liked it. Despite what you’ve seen in movies, San Francisco and Silicon Valley are terrible places to live.&lt;/p&gt;
-&lt;p&gt;Seriously. Avoid moving to San Francisco and Silicon Valley because:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;You will never be able to afford your own place&lt;/strong&gt;: Forget about owning your own house unless you’re super rich tech millionaire (which you won’t become); and large chunk of your pay check will go to the landlord because of the ridiculous laws prohibiting more housing and scaring off owners from renting out.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You will have to work insane hours&lt;/strong&gt; in an open-space office filled with extremely loud co-workers and stupid super noisy toys while being assaulted by dogs 🐕 and shot at with nerf guns… needless to say your productivity will be close to 0, and you’ll have to catch up after hours and come to work early. Startups had to use the open-office layout because they wanted to save money. Big companies blindly copied it without thinking to “foster” communication and create innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You won’t become a millionaire&lt;/strong&gt; creating a startup, because your startup will burn through VC money faster than in any other place: Raising money is easy, but spending it on expensive engineers and office is easier. If you manage to partner or hire someone, expect them to leave for greener pastures in 1 year max.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You will be SINGLE and lack in true friendship&lt;/strong&gt;: Friendship and dating are not just hard, they are almost impossible, because you are surrounded with smart ambitious driven overachiever transplants who can’t find time to FaceTime let alone meet (because they are overworked due to poor office environment?); and if you’re already married holding on to your spouse will be hard (see 2 and 6)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You will get hot a lot&lt;/strong&gt;, because typically there is NO air conditioning in buildings. Yes. it’s 2016 and no A/Cs. ☀️ Also, the all-year-round climate with drought will bore and make you long for winter or rain.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You will feel inferior most of the times&lt;/strong&gt;: You always be surrounded with people smarter, luckier, more hard-working and more successful people than yourself: If you have a bit of an inferiority complex from time to time, here it will be multiplied by 10&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;You will start hating driving&lt;/strong&gt; because why bother? Streets of San Francisco, 101, I-80, Bay Bridge, any bridge… everything is backed up pretty much all the time. 🚦 Public transportation sucks. It’s filthy, slow and full of crazies. This leads to problem number 4 because keeping up with people will be harder.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;So give all these points, any reasonable human being who wants to remain sane and productive should avoid San Francisco and the Bay Area and live some where else.&lt;/p&gt;
-&lt;p&gt;PS: This post has sarcasm, but also has some true points.&lt;/p&gt;
+      <description>&lt;p&gt;After reading &lt;a href=&quot;http://amzn.to/2cbhiJv&quot;&gt;Deep Work&lt;/a&gt;, I was sold on removing distractions. One of the concept is to have an email filter. Not an automatic one but some set of criteria which will force the sender to think and put more work into their emails. Here’s what I came up with.&lt;/p&gt;
+&lt;p&gt;Filters which your email must adhere to increase chances of my reply:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No questions which you can find on Google/Bing/GoGoDuck under 10 min. If you still have a question, post it in a public forum and include a link so others can benefit from the answer too&lt;/li&gt;
+&lt;li&gt;No offers for phone calls, just be friends, or &lt;strong&gt;coffee meetings&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Have an interesting offer for me to collaborate, do business or work on a project&lt;/li&gt;
+&lt;li&gt;No promotion of your company, product or service&lt;/li&gt;
+&lt;li&gt;Have precise amount of time required from me and the list of benefits for me&lt;/li&gt;
+&lt;li&gt;Have fewer than 3 paragraphs and preferable a one-sentence TL;DR with one actionable step at the bottom&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Meeting criteria won’t guarantee a reply. Not meeting criteria will guarantee a delete or a blocking. :) And yes, don’t think that if you send me an email (or anyone), they are obligated to reply.&lt;/p&gt;
 </description>
     </item>
     <item>
@@ -46,6 +42,29 @@
 &lt;li&gt;&lt;strong&gt;You will have to work insane hours&lt;/strong&gt; in an open-space office filled with extremely loud co-workers and stupid super noisy toys while being assaulted by dogs 🐕 and shot at with nerf guns… needless to say your productivity will be close to 0, and you’ll have to catch up after hours and come to work early. Startups had to use the open-office layout because they wanted to save money. Big companies blindly copied it without thinking to “foster” communication and create innovation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;You won’t become a millionaire&lt;/strong&gt; creating a startup, because your startup will burn through VC money faster than in any other place: Raising money is easy, but spending it on expensive engineers and office is easier. If you manage to partner or hire someone, expect them to leave for greener pastures in 1 year max.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;You be SINGLE and lack in true friendship&lt;/strong&gt;: Friendship and dating are not just hard, they are almost impossible, because you are surrounded with smart ambitious driven overachiever transplants who can’t find time to FaceTime let alone meet (because they are overworked due to poor office environment?); and if you’re already married holding on to your spouse will be hard (see 2 and 6)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will get hot a lot&lt;/strong&gt;, because typically there is NO air conditioning in buildings. Yes. it’s 2016 and no A/Cs. ☀️ Also, the all-year-round climate with drought will bore and make you long for winter or rain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will feel inferior most of the times&lt;/strong&gt;: You always be surrounded with people smarter, luckier, more hard-working and more successful people than yourself: If you have a bit of an inferiority complex from time to time, here it will be multiplied by 10&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will start hating driving&lt;/strong&gt; because why bother? Streets of San Francisco, 101, I-80, Bay Bridge, any bridge… everything is backed up pretty much all the time. 🚦 Public transportation sucks. It’s filthy, slow and full of crazies. This leads to problem number 4 because keeping up with people will be harder.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So give all these points, any reasonable human being who wants to remain sane and productive should avoid San Francisco and the Bay Area and live some where else.&lt;/p&gt;
+&lt;p&gt;PS: This post has sarcasm, but also has some true points.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Don't Move to San Francisco or 7 Reasons Why You Should Avoid Living in the Bay Area</title>
+      <link>http://azat.co/blog/5-not-sf/</link>
+      <pubDate>Fri, 09 Sep 2016 15:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/5-not-sf/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;http://azat.co/5-not-sf/I_hate_this_city____sanfrancisco__sanfran__sf__california.jpg&quot; alt=&quot;San Francisco, CA&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I lived fro 5 years in the Bay Area which is San Francisco, Oakland, San Jose, and everything in between them (a.k.a. Silicon Valley). Before that I lived in Washington DC for 6 year.&lt;/p&gt;
+&lt;p&gt;Don’t confuse tourism with immigration if you’ve been in the Bay Area on a brief vacation and liked it. Despite what you’ve seen in movies, San Francisco and Silicon Valley are terrible places to live.&lt;/p&gt;
+&lt;p&gt;Seriously. Avoid moving to San Francisco and Silicon Valley because:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;You will never be able to afford your own place&lt;/strong&gt;: Forget about owning your own house unless you’re super rich tech millionaire (which you won’t become); and large chunk of your pay check will go to the landlord because of the ridiculous laws prohibiting more housing and scaring off owners from renting out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will have to work insane hours&lt;/strong&gt; in an open-space office filled with extremely loud co-workers and stupid super noisy toys while being assaulted by dogs 🐕 and shot at with nerf guns… needless to say your productivity will be close to 0, and you’ll have to catch up after hours and come to work early. Startups had to use the open-office layout because they wanted to save money. Big companies blindly copied it without thinking to “foster” communication and create innovation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You won’t become a millionaire&lt;/strong&gt; creating a startup, because your startup will burn through VC money faster than in any other place: Raising money is easy, but spending it on expensive engineers and office is easier. If you manage to partner or hire someone, expect them to leave for greener pastures in 1 year max.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You will be SINGLE and lack in true friendship&lt;/strong&gt;: Friendship and dating are not just hard, they are almost impossible, because you are surrounded with smart ambitious driven overachiever transplants who can’t find time to FaceTime let alone meet (because they are overworked due to poor office environment?); and if you’re already married holding on to your spouse will be hard (see 2 and 6)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;You will get hot a lot&lt;/strong&gt;, because typically there is NO air conditioning in buildings. Yes. it’s 2016 and no A/Cs. ☀️ Also, the all-year-round climate with drought will bore and make you long for winter or rain.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;You will feel inferior most of the times&lt;/strong&gt;: You always be surrounded with people smarter, luckier, more hard-working and more successful people than yourself: If you have a bit of an inferiority complex from time to time, here it will be multiplied by 10&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;You will start hating driving&lt;/strong&gt; because why bother? Streets of San Francisco, 101, I-80, Bay Bridge, any bridge… everything is backed up pretty much all the time. 🚦 Public transportation sucks. It’s filthy, slow and full of crazies. This leads to problem number 4 because keeping up with people will be harder.&lt;/li&gt;
