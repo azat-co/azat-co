@@ -5,13 +5,33 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Wed, 04 Jan 2017 07:54:00 -0800</pubDate>
+    <pubDate>Sun, 22 Jan 2017 12:53:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Flow</title>
+      <link>http://azat.co/blog/flow/</link>
+      <pubDate>Sun, 22 Jan 2017 12:53:00 -0500</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/flow/</guid>
+      <author></author>
+      <description>&lt;p&gt;Flow is a blissful state of activity in which time is distorted and reality is ignored. Programming, writing, painting are all examples of a flow.&lt;/p&gt;
+&lt;p&gt;Distractions kill flow. Emails, IMs, noise are examples of such flow killers. Each distraction not only robs you of your amazing flow time, but it also taxes the mental capacity to get back into the flow. So a 5-minute detour typically cost 15-20 minutes because it takes time to remember the last step, focus and remove residual thinking. That 30-minute call actually ate 1-1.5 hours because you stopped the flow 15 minutes prior the call at a stopping point so you are not in the middle and have plenty of time to dial in. Then you had to get back into the flow after the call which took at lest 15 minutes more. That’s a 3-4x increase which don’t account for. But that’s not the only problem with work fragmentation.&lt;/p&gt;
+&lt;p&gt;It is &lt;em&gt;more exhaustive&lt;/em&gt; to multitask (which is a form of constant switching) than to be in the flow. Most of us had a tiresome day when we can’t name a thing we accomplished because there were meetings, calls, conversations, urgent things, emails and IMs.  I feel more tired when I try (and fail) to multitask in a meeting by checking emails or taking notes.&lt;/p&gt;
+&lt;p&gt;So flow feels good, it’s more productive and produces a higher quality results (&lt;a href=&quot;http://azat.co/flow/&quot;&gt;Deep Work&lt;/a&gt;). Good. Then why the multitasking habit is so prevalent in our day and age? I’ll blame the internet.&lt;/p&gt;
+&lt;p&gt;You see, the Internet is a network built on server client architecture. Clients, a.k.a. as browsers, make requests to remote servers to fetch information or to send it. There’s delay. The delay was way worse a decade ago. That’s why there are tabs in a browser. I noticed that I tend to open multiple webpages using “Open in a New Tab”, then start with the first while others are loading. It was saving me minutes a decade ago but now the time saved is negligible. However, I’m distracted by jumping from the content of one task to another.&lt;/p&gt;
+&lt;p&gt;For programmers, compilation time is something they utilize by multitasking. So tempting to check IM messanger while my Webpack is transpiling JavaScript! Or Maven and Java for you, Java devs. &lt;strong&gt;Engineers are great of optimizing after all. They try to optimize their time too… at a cost of breaking the flow.&lt;/strong&gt; They are also very curious (as noted in &lt;a href=&quot;http://azat.co/flow/&quot;&gt;Managing Humans&lt;/a&gt;) which makes them good at learning but prone to losing focus.&lt;/p&gt;
+&lt;p&gt;The solution is to resist to optimize the waiting time. Use the waiting time to continue to work on the same task… or just sit and stare at that rotating loading icon. I despise SMS/text messages for this because you can drag a 5-minute call into a multi-day correspondence. If you send me anything other than an address, phone number, price or your SSN, I’ll ignore you.&lt;/p&gt;
+&lt;p&gt;To add to the habit of optimizing the waiting time, there’s &lt;strong&gt;over-reliance on external resources&lt;/strong&gt; like online search, documentation, colleagues and forums. Every time you need to look up something, you risk of going down the rabbit hole, getting distracted by unrelated content. If I can write a book without a research, I can do it in a few day. (In fact, I wrote ProgWriter in a day while on a internet-less train ride from Portland, Oregon to Oakland, California.)&lt;/p&gt;
+&lt;p&gt;The solution is to get all you need offline. Some email clients like Outlook allow you to switch to offline mode. The programming library APIs can be remembered after you use them a few times. Offline docs like &lt;code&gt;man&lt;/code&gt; command, reading source code in &lt;code&gt;node_modules&lt;/code&gt;, or Dash app are other options. If not feasible to remember something, then just leave a TK or TODO and batch up the search for a later time.&lt;/p&gt;
+&lt;p&gt;Finally, &lt;em&gt;the third type of distraction is the distractions are the easiest to eliminate because they are external.&lt;/em&gt; Things like noise, email notifications, etc. Solution: turn do not disturb mode ON, stop working in cafes and/or office, download music without words (Spotify has music from video games), &lt;a href=&quot;http://azat.co/blog/emails&quot;&gt;process emails instead of checking them&lt;/a&gt;, and let people &lt;a href=&quot;http://localhost:8080/blog/email-filter&quot;&gt;know&lt;/a&gt; that you respond only once a day or even better once a week.&lt;/p&gt;
+&lt;p&gt;It might be hard to adjust at first. You might feel good about being in the flow for an hour or two. Maybe three. But then feel an urge to peek into email or news or social media. What is someone needs you? What if something important happened? Resist. It’ll go away. Take a walk in the park or around the office if needed, and get back into the flow of your task. I read somewhere that&lt;strong&gt; humans can only spend two to four (2-4) hours per day in an intense focus&lt;/strong&gt;. You are a human, right? The do the important things first while your brain is still fresh and will power the strongest.&lt;/p&gt;
+&lt;p&gt;PS: I remember I was able to have a TV in the background and still work (and play) on my computer when I was younger. I am sure that I wasn’t doing as much focused and advanced work back then. My guess is that over the years of programming and meditation practice, I developed the ability to focus deeper on my work by using flow. Conclusion? &lt;em&gt;The deeper your work (which requires flow) the more sensitive and damaging the distractions are.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>I Don't Need Your Feedback</title>
       <link>http://azat.co/blog/feedback/</link>
-      <pubDate>Wed, 04 Jan 2017 07:54:00 -0800</pubDate>
+      <pubDate>Wed, 04 Jan 2017 07:54:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/feedback/</guid>
       <author></author>
       <description>&lt;p&gt;I was at a conference and some guy told me after a quick chat “I’ll give you my feedback on Node University”. No, I don’t need your feedback. I don’t even know if you are my target audience. 👊&lt;/p&gt;
@@ -29,7 +49,7 @@
     <item>
       <title>Shaming is Good</title>
       <link>http://azat.co/blog/shaming/</link>
-      <pubDate>Sun, 01 Jan 2017 11:44:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 11:44:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/shaming/</guid>
       <author></author>
       <description>&lt;p&gt;Shaming is good because it’s a strong motivator to change. If you have a trouble with the word itself due to negative bias, then substitute it with &lt;em&gt;peer pressure&lt;/em&gt; or environment. &lt;/p&gt;
@@ -42,7 +62,7 @@
     <item>
       <title>What I Learned Reading 200 Books 📚</title>
       <link>http://azat.co/blog/200-books/</link>
-      <pubDate>Wed, 28 Dec 2016 01:08:00 -0800</pubDate>
+      <pubDate>Wed, 28 Dec 2016 01:08:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/200-books/</guid>
       <author></author>
       <description>&lt;p&gt;I’m not a huge fan of reading. In fact, I don’t like reading. But I love getting better, finding out something new and useful.&lt;/p&gt;
@@ -82,7 +102,7 @@
     <item>
       <title>Check vs. Process Emails</title>
       <link>http://azat.co/blog/emails/</link>
-      <pubDate>Fri, 23 Dec 2016 08:32:00 -0800</pubDate>
+      <pubDate>Fri, 23 Dec 2016 08:32:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/emails/</guid>
       <author></author>
       <description>&lt;p&gt;I stopped saying “I’m checking my email”, because I almost never check them. That’s true. I stopped checking my emails a few years ago, and &lt;strong&gt;it brought more focus, fun and productivity to my life&lt;/strong&gt;.&lt;/p&gt;
@@ -97,7 +117,7 @@
     <item>
       <title>Barbel Theory Applied to a Career in Tech</title>
       <link>http://azat.co/blog/barbell/</link>
-      <pubDate>Fri, 16 Dec 2016 12:00:00 -0800</pubDate>
+      <pubDate>Fri, 16 Dec 2016 12:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/barbell/</guid>
       <author></author>
       <description>&lt;p&gt;After reading Nassim Taleb’s great book &lt;a href=&quot;http://amzn.to/2hsHHE6&quot;&gt;Antifragile&lt;/a&gt;, I saw how one can apply the &lt;a href=&quot;https://en.wikipedia.org/wiki/Barbell_strategy&quot;&gt;barbell theory&lt;/a&gt;, which he described in the book, to building a career in tech:&lt;/p&gt;
@@ -116,7 +136,7 @@
     <item>
       <title>Escapism: Stop Wasting Time and Distracting Yourself with Traveling</title>
       <link>http://azat.co/blog/escapism/</link>
-      <pubDate>Mon, 12 Dec 2016 19:32:00 -0800</pubDate>
+      <pubDate>Mon, 12 Dec 2016 19:32:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/escapism/</guid>
       <author></author>
       <description>&lt;p&gt;A lot of people are brainwashed into spending their hard-earned money into enduring stresses of traveling and adjusting to new places for subpar experiences. They even say: Work hard, play hard. Why?! Because resorts need to make &lt;strong&gt;money&lt;/strong&gt;. Seriously, most people prefer the escapism and procrastination. Is it really worth it?&lt;/p&gt;
@@ -135,7 +155,7 @@
     <item>
       <title>Why Liking to Travel and Enjoying the Journey is Stupid</title>
       <link>http://azat.co/blog/travel/</link>
-      <pubDate>Mon, 12 Dec 2016 19:00:00 -0800</pubDate>
+      <pubDate>Mon, 12 Dec 2016 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/travel/</guid>
       <author></author>
       <description>&lt;p&gt;Every time someone says: “I like traveling”, I know they are lying. Typically these people don’t travel much, or they foolishly think living in a foreign country for more than few weeks is traveling (hint: it’s called living in a country, if you stay there more than 3-4 weeks)… or they are plain simple masochists.&lt;/p&gt;
@@ -146,7 +166,7 @@
     <item>
       <title>Small Stuff</title>
       <link>http://azat.co/blog/small-stuff/</link>
-      <pubDate>Fri, 02 Dec 2016 11:42:00 -0800</pubDate>
+      <pubDate>Fri, 02 Dec 2016 11:42:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/small-stuff/</guid>
       <author></author>
       <description>&lt;p&gt;Are you worried about small stuff and losing the big picture? Some people worry about whether they should cut down on coffee, walk more, eat less carbs, get more Starbucks reward and credit card miles, watch the latest TV show, or who said what on social media. All this B.S. Just thinking about these things makes me tired. Most of the time they worry about small stuff. That’s a great way to lose focus. &lt;/p&gt;
@@ -157,7 +177,7 @@
     <item>
       <title>How to Fight Perfectionism</title>
       <link>http://azat.co/blog/perfectionism/</link>
-      <pubDate>Tue, 08 Nov 2016 13:00:00 -0800</pubDate>
+      <pubDate>Tue, 08 Nov 2016 13:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/perfectionism/</guid>
       <author></author>
       <description>&lt;p&gt;Most of us &lt;em&gt;intuitively&lt;/em&gt; understand that better products and services is better for you as an employee or business owner. They can attract more customers and propel you to success, whatever that is for you. Some of us know the inspiring stories of obsessed entrepreneurs who drove the product to perfection amidst delays and budget overruns (e.g., Steve Jobs). Common sense tells us that the less flaws there is, the better. It could be due to our experience as a consumer of goods. It could be because we learned it in schools where we avoided errors in our homework and tests. &lt;/p&gt;
@@ -177,7 +197,7 @@
     <item>
       <title>Ego is the Friend: Review on Ego Is the Enemy</title>
       <link>http://azat.co/blog/ego-is-the-friend/</link>
-      <pubDate>Sat, 15 Oct 2016 13:30:00 -0700</pubDate>
+      <pubDate>Sat, 15 Oct 2016 13:30:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/ego-is-the-friend/</guid>
       <author></author>
       <description>&lt;p&gt;Recent Ryan’s book is another popular junk-read which have 0 substance and not only waste time but actually distract.&lt;/p&gt;
@@ -190,7 +210,7 @@
     <item>
       <title>Bad Long Weekends: 6-Day Workweek Manifesto</title>
       <link>http://azat.co/blog/weekends/</link>
-      <pubDate>Thu, 13 Oct 2016 03:00:00 -0700</pubDate>
+      <pubDate>Thu, 13 Oct 2016 03:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/weekends/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/proxy/1*Tdu6SILy42fjbx5pO3YgVw.jpeg&quot; alt=&quot;Weekend Office&quot;&gt;&lt;/p&gt;
@@ -214,7 +234,7 @@
     <item>
       <title>Email Filter</title>
       <link>http://azat.co/blog/email-filter/</link>
-      <pubDate>Wed, 14 Sep 2016 22:30:00 -0700</pubDate>
+      <pubDate>Wed, 14 Sep 2016 22:30:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/email-filter/</guid>
       <author></author>
       <description>&lt;p&gt;After reading &lt;a href=&quot;http://amzn.to/2cbhiJv&quot;&gt;Deep Work&lt;/a&gt;, I was sold on removing distractions. One of the concept is to have an email filter. Not an automatic one but some set of criteria which will force the sender to think and put more work into their emails. Here’s what I came up with.&lt;/p&gt;
@@ -233,7 +253,7 @@
     <item>
       <title>Don't Move to San Francisco or 7 Reasons Why You Should Avoid Living in the Bay Area</title>
       <link>http://azat.co/blog/not-sf/</link>
-      <pubDate>Fri, 09 Sep 2016 15:00:00 -0700</pubDate>
+      <pubDate>Fri, 09 Sep 2016 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/not-sf/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/not-sf/I_hate_this_city____sanfrancisco__sanfran__sf__california.jpg&quot; alt=&quot;San Francisco, CA&quot;&gt;&lt;/p&gt;
@@ -256,7 +276,7 @@
     <item>
       <title>Why Text is Awesome 📝</title>
       <link>http://azat.co/blog/text/</link>
-      <pubDate>Sat, 27  Aug 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 27  Aug 2016 11:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/text/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/text/harvard-coop.jpg&quot; alt=&quot;Harvard Coop&quot;&gt;&lt;/p&gt;
@@ -272,7 +292,7 @@
     <item>
       <title>Stop Reading Biographies</title>
       <link>http://azat.co/blog/bios/</link>
-      <pubDate>Sat, 27  Aug 2016 08:00:00 -0700</pubDate>
+      <pubDate>Sat, 27  Aug 2016 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/bios/</guid>
       <author></author>
       <description>&lt;p&gt;I recently finished listening to another &lt;a href=&quot;http://amzn.to/2b99qVA&quot;&gt;biography&lt;/a&gt;. It was one of those 30-hour monsters! A typical audio book is 6-8 hours. Why these authors think more is better. No, no and no. In most cases they are wrong, because they end up filling the pages with unnecessary facts and speculations. For example, in &lt;a href=&quot;http://amzn.to/2b99qVA&quot;&gt;&lt;em&gt;Walt Disney: The Triumph of the American Imagination&lt;/em&gt;&lt;/a&gt;, author quotes his sources like its a freaking science book: with page numbers! Do I really care what in exactly what month each Disney movie was released and all the details of its production? NO! 🚫&lt;/p&gt;
@@ -291,7 +311,7 @@
     <item>
       <title>Why Pay a Full Price</title>
       <link>http://azat.co/blog/full-price/</link>
-      <pubDate>Wed, 10  Aug 2016 11:23:00 -0700</pubDate>
+      <pubDate>Wed, 10  Aug 2016 11:23:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/full-price/</guid>
       <author></author>
       <description>&lt;p&gt;Let me share a little secret. 😉  While it’s nice to get a discount and save a few bucks, especially when you’re going to buy a thing anyway, there is something magical in when you pay a full price. You’ll tend to enjoy the thing more, feel better about yourself and use the thing more often.&lt;/p&gt;
@@ -305,7 +325,7 @@
     <item>
       <title>Paradoxes</title>
       <link>http://azat.co/blog/paradoxes/</link>
-      <pubDate>Sat, 23 Jul 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 23 Jul 2016 11:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paradoxes/</guid>
       <author></author>
       <description>&lt;p&gt;I’ve noticed that there are a lot of paradoxes when it comes to attitudes and life which you can’t easily solve:&lt;/p&gt;
@@ -327,7 +347,7 @@
     <item>
       <title>Listening to Customers is Bad?</title>
       <link>http://azat.co/blog/customers/</link>
-      <pubDate>Mon, 04 Jul 2016 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 Jul 2016 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/customers/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/customers/working-in-starbucks.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -339,7 +359,7 @@
     <item>
       <title>Consistency over Peaks</title>
       <link>http://azat.co/blog/consistency/</link>
-      <pubDate>Mon, 04 Jul 2016 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 Jul 2016 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/consistency/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/consistency/Sport_everyday_brings_results_and_energy._No_excuses.jpg&quot; alt=&quot;Sport_everyday_brings_results_and_energy._No_excuses&quot;&gt;&lt;/p&gt;
@@ -352,7 +372,7 @@
     <item>
       <title>Newbie Forever</title>
       <link>http://azat.co/blog/newbie-forever/</link>
-      <pubDate>Mon, 27 Jun 2016 18:00:00 -0700</pubDate>
+      <pubDate>Mon, 27 Jun 2016 18:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/newbie-forever/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/newbie-forever/Right_before_starting_my_presentation_about_Node_Patterns_From_Callbacks_to_Observer_at__NodePDX__Software__Technology__WebDevelopment__Java__JavaScript__Python__Ruby__Node.js__Angular__React.js__iOS__BigData__FinTech__Startups__Tech__code__program__.jpg&quot; alt=&quot;Right before starting my presentation about Node Patterns: From Callbacks to Observer at NodePDX 2016&quot;&gt;&lt;/p&gt;
@@ -365,7 +385,7 @@
     <item>
       <title>Not Shy</title>
       <link>http://azat.co/blog/not-shy/</link>
-      <pubDate>Sat, 18 Jun 2016 16:00:00 -0700</pubDate>
+      <pubDate>Sat, 18 Jun 2016 16:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/not-shy/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/not-shy/work.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -377,7 +397,7 @@
     <item>
       <title>PaleoFX 2016</title>
       <link>http://azat.co/blog/paleofx-2016/</link>
-      <pubDate>Sat, 04 Jun 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 04 Jun 2016 11:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleofx-2016/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/paleofx-2016/panel.jpg&quot; alt=&quot;PaleoFX 2016 Panel: Paleo is growing bigger and business helps it&quot;&gt;&lt;/p&gt;
@@ -399,7 +419,7 @@
     <item>
       <title>The Fisherman and the Businessman B.S.</title>
       <link>http://azat.co/blog/fisherman-and-businessman/</link>
-      <pubDate>Fri, 29 Apr 2016 08:00:00 -0700</pubDate>
+      <pubDate>Fri, 29 Apr 2016 08:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/fisherman-and-businessman/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/fisherman-and-businessman/fish.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -413,7 +433,7 @@
     <item>
       <title>Success is Boring</title>
       <link>http://azat.co/blog/success-is-boring/</link>
-      <pubDate>Tue, 24 Nov 2015 11:00:00 -0800</pubDate>
+      <pubDate>Tue, 24 Nov 2015 11:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/success-is-boring/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/success-is-boring/success-is-boring.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -427,7 +447,7 @@
     <item>
       <title>Pursuit of Happiness as The Major Source of Unhappiness or Why Happiness is Overrated</title>
       <link>http://azat.co/blog/happiness/</link>
-      <pubDate>Sat, 18 Jul 2015 12:05:00 -0700</pubDate>
+      <pubDate>Sat, 18 Jul 2015 12:05:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/happiness/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/happiness/cactus.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -445,7 +465,7 @@
     <item>
       <title>YOLO</title>
       <link>http://azat.co/blog/yolo/</link>
-      <pubDate>Fri, 15 May 2015 15:00:00 -0700</pubDate>
+      <pubDate>Fri, 15 May 2015 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/yolo/</guid>
       <author></author>
       <description>&lt;p&gt;You only live once, but not in the context of how most people think about this phrase such as: party, drink, reward or entertain yourself. In other words, they justify some epicurean activities.&lt;/p&gt;
@@ -456,7 +476,7 @@
     <item>
       <title>Ignorance is a Bliss</title>
       <link>http://azat.co/blog/ignorance/</link>
-      <pubDate>Thu, 07 May 2015 15:00:00 -0700</pubDate>
+      <pubDate>Thu, 07 May 2015 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/ignorance/</guid>
       <author></author>
       <description>&lt;p&gt;Be ignorant about everything except two or three things you are really interested about. Those things are your priorities and dream goals. Everything else is a distraction.&lt;/p&gt;
@@ -466,7 +486,7 @@
     <item>
       <title>Free&amp;Easy Hosting</title>
       <link>http://azat.co/blog/github-pages/</link>
-      <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
+      <pubDate>Thu, 22 Jan 2015 15:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/github-pages/</guid>
       <author></author>
       <description>&lt;p&gt;Tech advice: if you need a simple website for your project, then use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub pages&lt;/a&gt;. It’s free and better than cheap $4.99/mo hosting, which can be easily hacked, is slow and requires you to use cPanel.&lt;/p&gt;
@@ -496,7 +516,7 @@
     <item>
       <title>Man vs. BBQ</title>
       <link>http://azat.co/blog/man-vs-bbq/</link>
-      <pubDate>Thu, 14  Aug 2014 15:00:00 -0700</pubDate>
+      <pubDate>Thu, 14  Aug 2014 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/man-vs-bbq/</guid>
       <author></author>
       <description>&lt;p&gt;Inspired by the famous TV show Man vs. Food, I went on a 7-day BBQ challenge. &lt;em&gt;Please don’t try this at home&lt;/em&gt;.&lt;/p&gt;
@@ -509,7 +529,7 @@
     <item>
       <title>All Restaurants Are Bad</title>
       <link>http://azat.co/blog/all-restaurants-are-bad/</link>
-      <pubDate>Tue, 05  Aug 2014 15:00:00 -0700</pubDate>
+      <pubDate>Tue, 05  Aug 2014 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/all-restaurants-are-bad/</guid>
       <author></author>
       <description>&lt;p&gt;We love to go out and treat ourselves to nice meals! But it’s unhealty, because almost all US restaurants are bad for you in &lt;a href=&quot;http://azat.co/blog/fast-food-paleo-style&quot;&gt;the long run&lt;/a&gt;. Why? This is a common sense and it has to do with us when we favor cheaper places.&lt;/p&gt;
@@ -527,7 +547,7 @@
     <item>
       <title>Paleo is Like Having Superpowers</title>
       <link>http://azat.co/blog/paleo-superpowers/</link>
-      <pubDate>Wed, 16 Jul 2014 11:00:00 -0700</pubDate>
+      <pubDate>Wed, 16 Jul 2014 11:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleo-superpowers/</guid>
       <author></author>
       <description>&lt;p&gt;Over the years of being on a paleo lifestyle, I’ve noticed that I don’t want to go back to the S.A.D (Standard American Diet), for the reason that living on paleo feel is akin to &lt;strong&gt;having superpowers&lt;/strong&gt;. I just don’t want to give up these perks:&lt;/p&gt;
@@ -546,7 +566,7 @@
     <item>
       <title>Fast Food Paleo Style</title>
       <link>http://azat.co/blog/fast-food-paleo-style/</link>
-      <pubDate>Wed, 04 Jun 2014 15:00:00 -0700</pubDate>
+      <pubDate>Wed, 04 Jun 2014 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/fast-food-paleo-style/</guid>
       <author></author>
       <description>&lt;p&gt;Oftentimes, we are on the go, have to travel or just want to indulge in the staple of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Standard_American_Diet&quot;&gt;standard American diet&lt;/a&gt; (SAD) — fast food. Personally, I find most fast food restaurants convenient. They are quick, offer a good value and have  predictable quality.&lt;/p&gt;
@@ -573,7 +593,7 @@
     <item>
       <title>The Road to Ensenada</title>
       <link>http://azat.co/blog/road-to-ensenada/</link>
-      <pubDate>Thu, 29 May 2014 09:00:00 -0700</pubDate>
+      <pubDate>Thu, 29 May 2014 09:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/road-to-ensenada/</guid>
       <author></author>
       <description>&lt;p&gt;Ensenada, Baja California, Mexico is only 9-11 hours driving from the Bay Area. It’s a relatively large port city that serves as tourist cruises port of call. It has nice Pacific Ocean views and great seafood. The commerce is thriving on the US border with street vendors, acrobats and windshield window washers.&lt;/p&gt;
@@ -592,7 +612,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>The Crimean War</title>
       <link>http://azat.co/blog/the-crimean-war/</link>
-      <pubDate>Wed, 07 May 2014 14:00:00 -0700</pubDate>
+      <pubDate>Wed, 07 May 2014 14:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/the-crimean-war/</guid>
       <author></author>
       <description>&lt;p&gt;In lieu of &lt;a href=&quot;http://www.cnn.com/SPECIALS/2014/ukraine/&quot;&gt;events&lt;/a&gt; that started in December 2013 and still are happening in Ukraine (originally part of the Russian Empire and then the USSR), events that resulted in Crimea becoming a part of Russian Federation, I picked up a book about the &lt;a href=&quot;http://en.wikipedia.org/wiki/Crimean_War&quot;&gt;Crimean War&lt;/a&gt; of 1853-56. The book turned out to be a longer than I expected, about 600 pages, but I enjoyed every single page of it because the author gives such a good geopolitical picture of what was going on before and after the war, as well as the atmosphere and trends of the major part of the 19th century. The book is called &lt;strong&gt;The Crimean War: A History by Orlando Figes&lt;/strong&gt; and it’s available in &lt;a href=&quot;http://amzn.to/1krSGWg&quot;&gt;Kindle on Amazon.com&lt;/a&gt;.&lt;/p&gt;
@@ -612,7 +632,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>Pioneer Nation 2014, D.I.Y. Revolution and Oregon Adventure</title>
       <link>http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</link>
-      <pubDate>Wed, 30 Apr 2014 23:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Apr 2014 23:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</guid>
       <author></author>
       <description>&lt;p&gt;The Pioneer Nation conference was all about living your dream. It was held in Portland, Oregon. I was due for a vacation after &lt;a href=&quot;http://webapplog.com/growth-hacking-the-new-docusign-experience/&quot;&gt;DocuSign Momentum&lt;/a&gt; and always wanted to visit this city, so the excuse was perfect. It turned out to be a perfect rainy getaway from the tiresome dry, sunny, and hot Bay area winter!&lt;/p&gt;
@@ -641,7 +661,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>My First Post</title>
       <link>http://azat.co/blog/my-first-post/</link>
-      <pubDate>Tue, 22 Apr 2014 15:00:00 -0700</pubDate>
+      <pubDate>Tue, 22 Apr 2014 15:00:00 -0400</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/my-first-post/</guid>
       <author></author>
       <description>&lt;p&gt;I’m starting my personal blog and this is its first post. This blog unlike webapplog will contain &lt;strong&gt;zero coding&lt;/strong&gt;, and lots of musings, instagrams and rants.&lt;/p&gt;
