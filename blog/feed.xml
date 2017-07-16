@@ -32,7 +32,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Example of things you &lt;em&gt;probably&lt;/em&gt; shouldn’t be doing yourself:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Design&lt;/li&gt;
+&lt;li&gt;Design (for programmers or writers)&lt;/li&gt;
 &lt;li&gt;Scheduling appointments by phone&lt;/li&gt;
 &lt;li&gt;Fixing formatting, links, code, fonts, etc. in MS Word, Markdown, and other formats&lt;/li&gt;
 &lt;li&gt;First pass at creating captions and transcriptons&lt;/li&gt;
@@ -44,6 +44,15 @@
 &lt;li&gt;Posting to social media&lt;/li&gt;
 &lt;li&gt;Deploying code instead of having CD&lt;/li&gt;
 &lt;li&gt;Testing code instead of having CI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do not delegate (or automate) things when one or more applies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It will  faster for you to do it and it’s not a repeatable task then to train and review (review can take a long time)&lt;/li&gt;
+&lt;li&gt;It’s a last step review&lt;/li&gt;
+&lt;li&gt;It’s hard to describe (means creative) &lt;/li&gt;
+&lt;li&gt;It’s a core function for you &lt;/li&gt;
+&lt;li&gt;It requires extremely high standards which will cost you too much or hard to find people to do&lt;/li&gt;
+&lt;li&gt;It’s marketing/sales&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
