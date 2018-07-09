@@ -5,13 +5,24 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Sat, 21 Oct 2017 08:31:00 -0700</pubDate>
+    <pubDate>Mon, 09 Jul 2018 09:48:00 +0900</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Keep It Simple Stupid</title>
+      <link>http://azat.co/blog/kiss/</link>
+      <pubDate>Mon, 09 Jul 2018 09:48:00 +0900</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/kiss/</guid>
+      <author></author>
+      <description>&lt;p&gt;&lt;img src=&quot;http://azat.co/kiss/DeathtoStock_ModernWorkshop-04.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I truly believe that human brains didn’t evolve to process complex data. Human conscious mind can only hold three, maybe five, seven max for some geniuses, items at a time. Because of that, I have a very optimistic belief when I’m faced with something complex and overwhelming: nothing complex is possible to build or comprehend. It’s optimistic because I know that everything can be broken down into small components.&lt;/p&gt;
+&lt;p&gt;For example, a large corporation or huge country are run by small hierarchical groups of three to seven people. Any large computer system can be broken down to modules, submodules and procedures inside of these submodules. When faced with a new undertaking, a study or a seemingly complex system, I remind myself to keep things simple stupid, or to keep them simple, stupid.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Work and Rest</title>
       <link>http://azat.co/blog/work-rest/</link>
-      <pubDate>Sat, 21 Oct 2017 08:31:00 -0700</pubDate>
+      <pubDate>Sat, 21 Oct 2017 08:31:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/work-rest/</guid>
       <author></author>
       <description>&lt;p&gt;Working is important. It not only provides material means, social status and pride in a well work done, but also meaning and motivation which in tern extend a person’s life. According to &lt;a href=&quot;http://jech.bmj.com/content/early/2016/03/21/jech-2015-207097.short&quot;&gt;some studies&lt;/a&gt;, people who retire and don’t find another activity, die fast. Or that tech millionaires are unhappy once they are let go or fire, or that lottery winners are miss the working. &lt;/p&gt;
@@ -35,7 +46,7 @@
     <item>
       <title>Snowball Change ❄️❄️❄️</title>
       <link>http://azat.co/blog/snowball-change/</link>
-      <pubDate>Tue, 10 Oct 2017 06:02:00 -0700</pubDate>
+      <pubDate>Tue, 10 Oct 2017 06:02:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/snowball-change/</guid>
       <author></author>
       <description>&lt;p&gt;This year I had a lot of changes. And I’ll have more until the end of year! It started with a small one. I upgraded my laptop. The tool which I use 8-10 hours everyday. Then I changed the place of living… and did other &lt;em&gt;really&lt;/em&gt; big life changes. Small things lead to big changes. It’s a snowball. I remember something about cognitive dissonance. Probably that’s it. If you are decisive and not afraid of changes for good, then it translates to other areas of life and work… &lt;/p&gt;
@@ -45,7 +56,7 @@
     <item>
       <title>How to Get More Motivation</title>
       <link>http://azat.co/blog/motivation/</link>
-      <pubDate>Sun, 20  Aug 2017 02:16:00 -0700</pubDate>
+      <pubDate>Sun, 20  Aug 2017 02:16:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/motivation/</guid>
       <author></author>
       <description>&lt;p&gt;A lot of people think they lack motivation. They feel lazy. They listen to Gary Vaynerchuk or Tony Robinns. It might help for a while but why not solve the problem at the root cause? What these people really lack is a big enough “why”. They become complacent because most of their needs are met. Simply take on more and larger responsibilities and you’ll be motivated. Get new bigger problems to solve. Find a new job, get married, start a family, have kids, sign a book contract, start or buy a business. You’ll see your motivation will skyrocket, and the complacency will decrease!&lt;/p&gt;
@@ -54,7 +65,7 @@
     <item>
       <title>How to Live a Stress-Free Life</title>
       <link>http://azat.co/blog/stress/</link>
-      <pubDate>Sat, 12  Aug 2017 10:44:00 -0700</pubDate>
+      <pubDate>Sat, 12  Aug 2017 10:44:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/stress/</guid>
       <author></author>
       <description>&lt;p&gt;The title of this post is really a misnomer because a stress-free life is nothing good. Stress helps us grow and it’s usually a good thing when there’s enough time to recover, recuperate and heal. Think going to a gym. You exercise, which is a form of stress, but after a recovery period you become stronger. Humans evolutionary evolved to thrive under this type of acute stress followed by recovery (catabolic and anabolic processes).&lt;/p&gt;
@@ -73,7 +84,7 @@
     <item>
       <title>About Efficiency, Digital and Remote Work</title>
       <link>http://azat.co/blog/digital-life/</link>
-      <pubDate>Sat, 29 Jul 2017 09:22:00 -0700</pubDate>
+      <pubDate>Sat, 29 Jul 2017 09:22:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/digital-life/</guid>
       <author></author>
       <description>&lt;p&gt;Needless to say that cafes, &lt;a href=&quot;http://azat.co/blog/open-offices&quot;&gt;open offices&lt;/a&gt;, commute and slow internet all impede productivity. To increase efficiency, distraction-free &lt;a href=&quot;http://azat.co/blog/flow&quot;&gt;flow&lt;/a&gt; and productivity, I stayed home for a few days over the weekend to work on a project.&lt;/p&gt;
@@ -85,7 +96,7 @@
     <item>
       <title>The Right and Wrong Ways to Delegate</title>
       <link>http://azat.co/blog/delegation/</link>
-      <pubDate>Sun, 16 Jul 2017 16:22:00 -0700</pubDate>
+      <pubDate>Sun, 16 Jul 2017 16:22:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/delegation/</guid>
       <author></author>
       <description>&lt;p&gt;My main jobs are software engineering and writing. They are crafts and as with many crafts they are harder to delegate. Think mass produced car vs. designing a car and the factory to mass produce it. Software and books are scalable because they can be replicated infinitely without any loss, but the actual act of writing them is a creative hard-to-scale process. &lt;/p&gt;
@@ -133,7 +144,7 @@
     <item>
       <title>Changing Unconscious</title>
       <link>http://azat.co/blog/changing-unconscious/</link>
-      <pubDate>Wed, 05 Jul 2017 12:24:00 -0700</pubDate>
+      <pubDate>Wed, 05 Jul 2017 12:24:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/changing-unconscious/</guid>
       <author></author>
       <description>&lt;p&gt;As I was reviewing transcripts for one of my Node University courses, I was surprised to see so many “so”, “um”, and “ah” filler words. It was a very painful experience to realize that your speech is far from perfect. Of course, with training most people can improve their speech: avoid filler words, accents and improve intonation. This is what professional voice actors, news anchors and movie stars did. And they are in high demand and popular! &lt;/p&gt;
@@ -146,7 +157,7 @@
     <item>
       <title>A Man of All Markets</title>
       <link>http://azat.co/blog/man-of-all-markets/</link>
-      <pubDate>Sun, 18 Jun 2017 12:07:00 -0700</pubDate>
+      <pubDate>Sun, 18 Jun 2017 12:07:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/man-of-all-markets/</guid>
       <author></author>
       <description>&lt;p&gt;I’m almost done listening to an audiobook  &lt;a href=&quot;http://amzn.to/2rtrSir&quot;&gt;A Man for All Markets&lt;/a&gt; read by its author and I’m fascinated by two things. First, the parallels between risk, casino, gambling and the stock market. Second, the fact that the author was innovating and constantly moving forward into areas which are still not saturated and still unproved away from techniques and areas which became more competitive and mainstream. Natural curiosity and data-driven non-emotional approach helped the author a lot! These are my notes about the book which I highly recommend reading, so if next time someone tells you that the casino always wins, your can refer them to this book which proved otherwise.&lt;/p&gt;
@@ -155,7 +166,7 @@
     <item>
       <title>10 Easy Tips to Create More Time in Your Life</title>
       <link>http://azat.co/blog/time-tips/</link>
-      <pubDate>Sat, 03 Jun 2017 11:26:00 -0700</pubDate>
+      <pubDate>Sat, 03 Jun 2017 11:26:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/time-tips/</guid>
       <author></author>
       <description>&lt;p&gt;Being busy has became a badge of honor. For me, it’s just plain stupid. I do a lot of things but I’m not busy. In fact, one of the questions people ask me a lot is “How do you find time?”&lt;/p&gt;
@@ -179,7 +190,7 @@
     <item>
       <title>Success Formula</title>
       <link>http://azat.co/blog/success-formula/</link>
-      <pubDate>Sat, 27 May 2017 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 27 May 2017 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/success-formula/</guid>
       <author></author>
       <description>&lt;p&gt;Before I wrote that &lt;a href=&quot;http://azat.co/blog/success-is-boring&quot;&gt;success is boring&lt;/a&gt;. It still sounds true to me now, but I noticed a simple yet powerful formula for success. It works in almost all cases as far as I know based on dozens of biographies and autobiographies I’ve read and heard.&lt;/p&gt;
@@ -193,7 +204,7 @@
     <item>
       <title>How to Use Social Media Right for Much Benefit and to Stay Sane and Productive</title>
       <link>http://azat.co/blog/social-media/</link>
-      <pubDate>Sat, 08 Apr 2017 12:00:00 -0700</pubDate>
+      <pubDate>Sat, 08 Apr 2017 12:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/social-media/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/social-media/jordan-whitfield-97337.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -213,7 +224,7 @@
     <item>
       <title>How to Create an Online Course in Five Simple Steps</title>
       <link>http://azat.co/blog/create-course/</link>
-      <pubDate>Sat, 01 Apr 2017 03:08:00 -0700</pubDate>
+      <pubDate>Sat, 01 Apr 2017 03:08:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/create-course/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/create-course/DeathtoStock_ModernWorkshop-04.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -238,7 +249,7 @@
     <item>
       <title>Idiocy of Open Offices</title>
       <link>http://azat.co/blog/open-offices/</link>
-      <pubDate>Sat, 11 Mar 2017 11:55:00 -0800</pubDate>
+      <pubDate>Sat, 11 Mar 2017 11:55:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/open-offices/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/open-offices/office.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -264,7 +275,7 @@
     <item>
       <title>Why Goals Are for Losers, How to Generate Luck and to be Promoted for Being Unqualified</title>
       <link>http://azat.co/blog/how-to-fail/</link>
-      <pubDate>Sat, 04 Mar 2017 13:00:00 -0800</pubDate>
+      <pubDate>Sat, 04 Mar 2017 13:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/how-to-fail/</guid>
       <author></author>
       <description>&lt;p&gt;Last week, I finished reading Scott Adam’s &lt;a href=&quot;http://amzn.to/2mpZLlh&quot;&gt;How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life&lt;/a&gt;. Scott is the creator of the &lt;a href=&quot;http://dilbert.com&quot;&gt;Dilbert&lt;/a&gt; cartoon series. He is also a hypnotist and a master of the mindset. I highly recommend his book. Here are the three nuggets:&lt;/p&gt;
@@ -277,7 +288,7 @@
     <item>
       <title>How to Find Time: Stop Finding and Start Creating It</title>
       <link>http://azat.co/blog/time/</link>
-      <pubDate>Sat, 04 Feb 2017 13:00:00 -0800</pubDate>
+      <pubDate>Sat, 04 Feb 2017 13:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/time/</guid>
       <author></author>
       <description>&lt;p&gt;When people hear that I published 14 books and several online courses while speaking at 17 conferences in 2016 and working full time at Capital One on hands-on projects, they ask one question: “How do you find time?”. Simple answer is I don’t.&lt;/p&gt;
@@ -290,7 +301,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Flow</title>
       <link>http://azat.co/blog/flow/</link>
-      <pubDate>Sun, 22 Jan 2017 12:53:00 -0800</pubDate>
+      <pubDate>Sun, 22 Jan 2017 12:53:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/flow/</guid>
       <author></author>
       <description>&lt;p&gt;Flow is a blissful state of activity in which time is distorted and reality is ignored. Programming, writing, painting are all examples of a flow.&lt;/p&gt;
@@ -310,7 +321,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>I Don't Need Your Feedback</title>
       <link>http://azat.co/blog/feedback/</link>
-      <pubDate>Wed, 04 Jan 2017 07:54:00 -0800</pubDate>
+      <pubDate>Wed, 04 Jan 2017 07:54:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/feedback/</guid>
       <author></author>
       <description>&lt;p&gt;I was at a conference and some guy told me after a quick chat “I’ll give you my feedback on Node University”. No, I don’t need your feedback. I don’t even know if you are my target audience. 👊&lt;/p&gt;
@@ -328,7 +339,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Shaming is Good</title>
       <link>http://azat.co/blog/shaming/</link>
-      <pubDate>Sun, 01 Jan 2017 11:44:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 11:44:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/shaming/</guid>
       <author></author>
       <description>&lt;p&gt;Shaming is good because it’s a strong motivator to change. If you have a trouble with the word itself due to negative bias, then substitute it with &lt;em&gt;peer pressure&lt;/em&gt; or environment. &lt;/p&gt;
@@ -341,7 +352,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>What I Learned Reading 200 Books 📚</title>
       <link>http://azat.co/blog/200-books/</link>
-      <pubDate>Wed, 28 Dec 2016 01:08:00 -0800</pubDate>
+      <pubDate>Wed, 28 Dec 2016 01:08:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/200-books/</guid>
       <author></author>
       <description>&lt;p&gt;I’m not a huge fan of reading. In fact, I don’t like reading. But I love getting better, finding out something new and useful.&lt;/p&gt;
@@ -381,7 +392,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Check vs. Process Emails</title>
       <link>http://azat.co/blog/emails/</link>
-      <pubDate>Fri, 23 Dec 2016 08:32:00 -0800</pubDate>
+      <pubDate>Fri, 23 Dec 2016 08:32:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/emails/</guid>
       <author></author>
       <description>&lt;p&gt;I stopped saying “I’m checking my email”, because I almost never check them. That’s true. I stopped checking my emails a few years ago, and &lt;strong&gt;it brought more focus, fun and productivity to my life&lt;/strong&gt;.&lt;/p&gt;
@@ -396,7 +407,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Barbel Theory Applied to a Career in Tech</title>
       <link>http://azat.co/blog/barbell/</link>
-      <pubDate>Fri, 16 Dec 2016 12:00:00 -0800</pubDate>
+      <pubDate>Fri, 16 Dec 2016 12:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/barbell/</guid>
       <author></author>
       <description>&lt;p&gt;After reading Nassim Taleb’s great book &lt;a href=&quot;http://amzn.to/2hsHHE6&quot;&gt;Antifragile&lt;/a&gt;, I saw how one can apply the &lt;a href=&quot;https://en.wikipedia.org/wiki/Barbell_strategy&quot;&gt;barbell theory&lt;/a&gt;, which he described in the book, to building a career in tech:&lt;/p&gt;
@@ -415,7 +426,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Escapism: Stop Wasting Time and Distracting Yourself with Traveling</title>
       <link>http://azat.co/blog/escapism/</link>
-      <pubDate>Mon, 12 Dec 2016 19:32:00 -0800</pubDate>
+      <pubDate>Mon, 12 Dec 2016 19:32:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/escapism/</guid>
       <author></author>
       <description>&lt;p&gt;A lot of people are brainwashed into spending their hard-earned money into enduring stresses of traveling and adjusting to new places for subpar experiences. They even say: Work hard, play hard. Why?! Because resorts need to make &lt;strong&gt;money&lt;/strong&gt;. Seriously, most people prefer the escapism and procrastination. Is it really worth it?&lt;/p&gt;
@@ -434,7 +445,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Why Liking to Travel and Enjoying the Journey is Stupid</title>
       <link>http://azat.co/blog/travel/</link>
-      <pubDate>Mon, 12 Dec 2016 19:00:00 -0800</pubDate>
+      <pubDate>Mon, 12 Dec 2016 19:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/travel/</guid>
       <author></author>
       <description>&lt;p&gt;Every time someone says: “I like traveling”, I know they are lying. Typically these people don’t travel much, or they foolishly think living in a foreign country for more than few weeks is traveling (hint: it’s called living in a country, if you stay there more than 3-4 weeks)… or they are plain simple masochists.&lt;/p&gt;
@@ -445,7 +456,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Small Stuff</title>
       <link>http://azat.co/blog/small-stuff/</link>
-      <pubDate>Fri, 02 Dec 2016 11:42:00 -0800</pubDate>
+      <pubDate>Fri, 02 Dec 2016 11:42:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/small-stuff/</guid>
       <author></author>
       <description>&lt;p&gt;Are you worried about small stuff and losing the big picture? Some people worry about whether they should cut down on coffee, walk more, eat less carbs, get more Starbucks reward and credit card miles, watch the latest TV show, or who said what on social media. All this B.S. Just thinking about these things makes me tired. Most of the time they worry about small stuff. That’s a great way to lose focus. &lt;/p&gt;
@@ -456,7 +467,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>How to Fight Perfectionism</title>
       <link>http://azat.co/blog/perfectionism/</link>
-      <pubDate>Tue, 08 Nov 2016 13:00:00 -0800</pubDate>
+      <pubDate>Tue, 08 Nov 2016 13:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/perfectionism/</guid>
       <author></author>
       <description>&lt;p&gt;Most of us &lt;em&gt;intuitively&lt;/em&gt; understand that better products and services is better for you as an employee or business owner. They can attract more customers and propel you to success, whatever that is for you. Some of us know the inspiring stories of obsessed entrepreneurs who drove the product to perfection amidst delays and budget overruns (e.g., Steve Jobs). Common sense tells us that the less flaws there is, the better. It could be due to our experience as a consumer of goods. It could be because we learned it in schools where we avoided errors in our homework and tests. &lt;/p&gt;
@@ -476,7 +487,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Ego is the Friend: Review on Ego Is the Enemy</title>
       <link>http://azat.co/blog/ego-is-the-friend/</link>
-      <pubDate>Sat, 15 Oct 2016 13:30:00 -0700</pubDate>
+      <pubDate>Sat, 15 Oct 2016 13:30:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/ego-is-the-friend/</guid>
       <author></author>
       <description>&lt;p&gt;Recent Ryan’s book is another popular junk-read which have 0 substance and not only waste time but actually distract.&lt;/p&gt;
@@ -489,7 +500,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Bad Long Weekends: 6-Day Workweek Manifesto</title>
       <link>http://azat.co/blog/weekends/</link>
-      <pubDate>Thu, 13 Oct 2016 03:00:00 -0700</pubDate>
+      <pubDate>Thu, 13 Oct 2016 03:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/weekends/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/proxy/1*Tdu6SILy42fjbx5pO3YgVw.jpeg&quot; alt=&quot;Weekend Office&quot;&gt;&lt;/p&gt;
@@ -513,7 +524,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Email Filter</title>
       <link>http://azat.co/blog/email-filter/</link>
-      <pubDate>Wed, 14 Sep 2016 22:30:00 -0700</pubDate>
+      <pubDate>Wed, 14 Sep 2016 22:30:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/email-filter/</guid>
       <author></author>
       <description>&lt;p&gt;After reading &lt;a href=&quot;http://amzn.to/2cbhiJv&quot;&gt;Deep Work&lt;/a&gt;, I was sold on removing distractions. One of the concept is to have an email filter. Not an automatic one but some set of criteria which will force the sender to think and put more work into their emails. Here’s what I came up with.&lt;/p&gt;
@@ -532,7 +543,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Don't Move to San Francisco or 7 Reasons Why You Should Avoid Living in the Bay Area</title>
       <link>http://azat.co/blog/not-sf/</link>
-      <pubDate>Fri, 09 Sep 2016 15:00:00 -0700</pubDate>
+      <pubDate>Fri, 09 Sep 2016 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/not-sf/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/not-sf/I_hate_this_city____sanfrancisco__sanfran__sf__california.jpg&quot; alt=&quot;San Francisco, CA&quot;&gt;&lt;/p&gt;
@@ -555,7 +566,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Why Text is Awesome 📝</title>
       <link>http://azat.co/blog/text/</link>
-      <pubDate>Sat, 27  Aug 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 27  Aug 2016 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/text/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/text/harvard-coop.jpg&quot; alt=&quot;Harvard Coop&quot;&gt;&lt;/p&gt;
@@ -571,7 +582,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Stop Reading Biographies</title>
       <link>http://azat.co/blog/bios/</link>
-      <pubDate>Sat, 27  Aug 2016 08:00:00 -0700</pubDate>
+      <pubDate>Sat, 27  Aug 2016 08:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/bios/</guid>
       <author></author>
       <description>&lt;p&gt;I recently finished listening to another &lt;a href=&quot;http://amzn.to/2b99qVA&quot;&gt;biography&lt;/a&gt;. It was one of those 30-hour monsters! A typical audio book is 6-8 hours. Why these authors think more is better. No, no and no. In most cases they are wrong, because they end up filling the pages with unnecessary facts and speculations. For example, in &lt;a href=&quot;http://amzn.to/2b99qVA&quot;&gt;&lt;em&gt;Walt Disney: The Triumph of the American Imagination&lt;/em&gt;&lt;/a&gt;, author quotes his sources like its a freaking science book: with page numbers! Do I really care what in exactly what month each Disney movie was released and all the details of its production? NO! 🚫&lt;/p&gt;
@@ -590,7 +601,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Why Pay a Full Price</title>
       <link>http://azat.co/blog/full-price/</link>
-      <pubDate>Wed, 10  Aug 2016 11:23:00 -0700</pubDate>
+      <pubDate>Wed, 10  Aug 2016 11:23:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/full-price/</guid>
       <author></author>
       <description>&lt;p&gt;Let me share a little secret. 😉  While it’s nice to get a discount and save a few bucks, especially when you’re going to buy a thing anyway, there is something magical in when you pay a full price. You’ll tend to enjoy the thing more, feel better about yourself and use the thing more often.&lt;/p&gt;
@@ -604,7 +615,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Paradoxes</title>
       <link>http://azat.co/blog/paradoxes/</link>
-      <pubDate>Sat, 23 Jul 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 23 Jul 2016 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paradoxes/</guid>
       <author></author>
       <description>&lt;p&gt;I’ve noticed that there are a lot of paradoxes when it comes to attitudes and life which you can’t easily solve:&lt;/p&gt;
@@ -626,7 +637,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Consistency over Peaks</title>
       <link>http://azat.co/blog/consistency/</link>
-      <pubDate>Mon, 04 Jul 2016 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 Jul 2016 08:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/consistency/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/consistency/Sport_everyday_brings_results_and_energy._No_excuses.jpg&quot; alt=&quot;Sport_everyday_brings_results_and_energy._No_excuses&quot;&gt;&lt;/p&gt;
@@ -639,7 +650,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Listening to Customers is Bad?</title>
       <link>http://azat.co/blog/customers/</link>
-      <pubDate>Mon, 04 Jul 2016 08:00:00 -0700</pubDate>
+      <pubDate>Mon, 04 Jul 2016 08:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/customers/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/customers/working-in-starbucks.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -651,7 +662,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Newbie Forever</title>
       <link>http://azat.co/blog/newbie-forever/</link>
-      <pubDate>Mon, 27 Jun 2016 18:00:00 -0700</pubDate>
+      <pubDate>Mon, 27 Jun 2016 18:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/newbie-forever/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/newbie-forever/Right_before_starting_my_presentation_about_Node_Patterns_From_Callbacks_to_Observer_at__NodePDX__Software__Technology__WebDevelopment__Java__JavaScript__Python__Ruby__Node.js__Angular__React.js__iOS__BigData__FinTech__Startups__Tech__code__program__.jpg&quot; alt=&quot;Right before starting my presentation about Node Patterns: From Callbacks to Observer at NodePDX 2016&quot;&gt;&lt;/p&gt;
@@ -664,7 +675,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Not Shy</title>
       <link>http://azat.co/blog/not-shy/</link>
-      <pubDate>Sat, 18 Jun 2016 16:00:00 -0700</pubDate>
+      <pubDate>Sat, 18 Jun 2016 16:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/not-shy/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/not-shy/work.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -676,7 +687,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>PaleoFX 2016</title>
       <link>http://azat.co/blog/paleofx-2016/</link>
-      <pubDate>Sat, 04 Jun 2016 11:00:00 -0700</pubDate>
+      <pubDate>Sat, 04 Jun 2016 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleofx-2016/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/paleofx-2016/panel.jpg&quot; alt=&quot;PaleoFX 2016 Panel: Paleo is growing bigger and business helps it&quot;&gt;&lt;/p&gt;
@@ -698,7 +709,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>The Fisherman and the Businessman B.S.</title>
       <link>http://azat.co/blog/fisherman-and-businessman/</link>
-      <pubDate>Fri, 29 Apr 2016 08:00:00 -0700</pubDate>
+      <pubDate>Fri, 29 Apr 2016 08:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/fisherman-and-businessman/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/fisherman-and-businessman/fish.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -712,7 +723,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Success is Boring</title>
       <link>http://azat.co/blog/success-is-boring/</link>
-      <pubDate>Tue, 24 Nov 2015 11:00:00 -0800</pubDate>
+      <pubDate>Tue, 24 Nov 2015 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/success-is-boring/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/success-is-boring/success-is-boring.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -726,7 +737,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Pursuit of Happiness as The Major Source of Unhappiness or Why Happiness is Overrated</title>
       <link>http://azat.co/blog/happiness/</link>
-      <pubDate>Sat, 18 Jul 2015 12:05:00 -0700</pubDate>
+      <pubDate>Sat, 18 Jul 2015 12:05:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/happiness/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;img src=&quot;/blog/happiness/cactus.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -744,7 +755,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>YOLO</title>
       <link>http://azat.co/blog/yolo/</link>
-      <pubDate>Fri, 15 May 2015 15:00:00 -0700</pubDate>
+      <pubDate>Fri, 15 May 2015 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/yolo/</guid>
       <author></author>
       <description>&lt;p&gt;You only live once, but not in the context of how most people think about this phrase such as: party, drink, reward or entertain yourself. In other words, they justify some epicurean activities.&lt;/p&gt;
@@ -755,7 +766,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Ignorance is a Bliss</title>
       <link>http://azat.co/blog/ignorance/</link>
-      <pubDate>Thu, 07 May 2015 15:00:00 -0700</pubDate>
+      <pubDate>Thu, 07 May 2015 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/ignorance/</guid>
       <author></author>
       <description>&lt;p&gt;Be ignorant about everything except two or three things you are really interested about. Those things are your priorities and dream goals. Everything else is a distraction.&lt;/p&gt;
@@ -765,7 +776,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Free&amp;Easy Hosting</title>
       <link>http://azat.co/blog/github-pages/</link>
-      <pubDate>Thu, 22 Jan 2015 15:00:00 -0800</pubDate>
+      <pubDate>Thu, 22 Jan 2015 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/github-pages/</guid>
       <author></author>
       <description>&lt;p&gt;Tech advice: if you need a simple website for your project, then use &lt;a href=&quot;https://pages.github.com&quot;&gt;GitHub pages&lt;/a&gt;. It’s free and better than cheap $4.99/mo hosting, which can be easily hacked, is slow and requires you to use cPanel.&lt;/p&gt;
@@ -795,7 +806,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Man vs. BBQ</title>
       <link>http://azat.co/blog/man-vs-bbq/</link>
-      <pubDate>Thu, 14  Aug 2014 15:00:00 -0700</pubDate>
+      <pubDate>Thu, 14  Aug 2014 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/man-vs-bbq/</guid>
       <author></author>
       <description>&lt;p&gt;Inspired by the famous TV show Man vs. Food, I went on a 7-day BBQ challenge. &lt;em&gt;Please don’t try this at home&lt;/em&gt;.&lt;/p&gt;
@@ -808,7 +819,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>All Restaurants Are Bad</title>
       <link>http://azat.co/blog/all-restaurants-are-bad/</link>
-      <pubDate>Tue, 05  Aug 2014 15:00:00 -0700</pubDate>
+      <pubDate>Tue, 05  Aug 2014 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/all-restaurants-are-bad/</guid>
       <author></author>
       <description>&lt;p&gt;We love to go out and treat ourselves to nice meals! But it’s unhealty, because almost all US restaurants are bad for you in &lt;a href=&quot;http://azat.co/blog/fast-food-paleo-style&quot;&gt;the long run&lt;/a&gt;. Why? This is a common sense and it has to do with us when we favor cheaper places.&lt;/p&gt;
@@ -826,7 +837,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Paleo is Like Having Superpowers</title>
       <link>http://azat.co/blog/paleo-superpowers/</link>
-      <pubDate>Wed, 16 Jul 2014 11:00:00 -0700</pubDate>
+      <pubDate>Wed, 16 Jul 2014 11:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/paleo-superpowers/</guid>
       <author></author>
       <description>&lt;p&gt;Over the years of being on a paleo lifestyle, I’ve noticed that I don’t want to go back to the S.A.D (Standard American Diet), for the reason that living on paleo feel is akin to &lt;strong&gt;having superpowers&lt;/strong&gt;. I just don’t want to give up these perks:&lt;/p&gt;
@@ -845,7 +856,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>Fast Food Paleo Style</title>
       <link>http://azat.co/blog/fast-food-paleo-style/</link>
-      <pubDate>Wed, 04 Jun 2014 15:00:00 -0700</pubDate>
+      <pubDate>Wed, 04 Jun 2014 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/fast-food-paleo-style/</guid>
       <author></author>
       <description>&lt;p&gt;Oftentimes, we are on the go, have to travel or just want to indulge in the staple of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Standard_American_Diet&quot;&gt;standard American diet&lt;/a&gt; (SAD) — fast food. Personally, I find most fast food restaurants convenient. They are quick, offer a good value and have  predictable quality.&lt;/p&gt;
@@ -872,7 +883,7 @@ People spend time looking at social media to become negative because they can’
     <item>
       <title>The Road to Ensenada</title>
       <link>http://azat.co/blog/road-to-ensenada/</link>
-      <pubDate>Thu, 29 May 2014 09:00:00 -0700</pubDate>
+      <pubDate>Thu, 29 May 2014 09:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/road-to-ensenada/</guid>
       <author></author>
       <description>&lt;p&gt;Ensenada, Baja California, Mexico is only 9-11 hours driving from the Bay Area. It’s a relatively large port city that serves as tourist cruises port of call. It has nice Pacific Ocean views and great seafood. The commerce is thriving on the US border with street vendors, acrobats and windshield window washers.&lt;/p&gt;
@@ -891,7 +902,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>The Crimean War</title>
       <link>http://azat.co/blog/the-crimean-war/</link>
-      <pubDate>Wed, 07 May 2014 14:00:00 -0700</pubDate>
+      <pubDate>Wed, 07 May 2014 14:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/the-crimean-war/</guid>
       <author></author>
       <description>&lt;p&gt;In lieu of &lt;a href=&quot;http://www.cnn.com/SPECIALS/2014/ukraine/&quot;&gt;events&lt;/a&gt; that started in December 2013 and still are happening in Ukraine (originally part of the Russian Empire and then the USSR), events that resulted in Crimea becoming a part of Russian Federation, I picked up a book about the &lt;a href=&quot;http://en.wikipedia.org/wiki/Crimean_War&quot;&gt;Crimean War&lt;/a&gt; of 1853-56. The book turned out to be a longer than I expected, about 600 pages, but I enjoyed every single page of it because the author gives such a good geopolitical picture of what was going on before and after the war, as well as the atmosphere and trends of the major part of the 19th century. The book is called &lt;strong&gt;The Crimean War: A History by Orlando Figes&lt;/strong&gt; and it’s available in &lt;a href=&quot;http://amzn.to/1krSGWg&quot;&gt;Kindle on Amazon.com&lt;/a&gt;.&lt;/p&gt;
@@ -911,7 +922,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>Pioneer Nation 2014, D.I.Y. Revolution and Oregon Adventure</title>
       <link>http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</link>
-      <pubDate>Wed, 30 Apr 2014 23:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Apr 2014 23:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/pioneer-nation-2014-diy-revolution-and-oregon-adventure/</guid>
       <author></author>
       <description>&lt;p&gt;The Pioneer Nation conference was all about living your dream. It was held in Portland, Oregon. I was due for a vacation after &lt;a href=&quot;http://webapplog.com/growth-hacking-the-new-docusign-experience/&quot;&gt;DocuSign Momentum&lt;/a&gt; and always wanted to visit this city, so the excuse was perfect. It turned out to be a perfect rainy getaway from the tiresome dry, sunny, and hot Bay area winter!&lt;/p&gt;
@@ -940,7 +951,7 @@ The Road to Ensenada by Lyle Lovett&lt;/p&gt;
     <item>
       <title>My First Post</title>
       <link>http://azat.co/blog/my-first-post/</link>
-      <pubDate>Tue, 22 Apr 2014 15:00:00 -0700</pubDate>
+      <pubDate>Tue, 22 Apr 2014 15:00:00 +0900</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/my-first-post/</guid>
       <author></author>
       <description>&lt;p&gt;I’m starting my personal blog and this is its first post. This blog unlike webapplog will contain &lt;strong&gt;zero coding&lt;/strong&gt;, and lots of musings, instagrams and rants.&lt;/p&gt;
