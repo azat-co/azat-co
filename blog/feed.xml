@@ -5,9 +5,24 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Sun, 12 Jan 2020 11:51:00 -0800</pubDate>
+    <pubDate>Sun, 26 Jan 2020 06:31:00 -0800</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>MMAT: My Learning Approach</title>
+      <link>http://azat.co/blog/mmat/</link>
+      <pubDate>Sun, 26 Jan 2020 06:31:00 -0800</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/mmat/</guid>
+      <author></author>
+      <description>&lt;p&gt;In our day and age, learning is more important than ever because things change so rapidly. I learned a taught a lot of things during my career which led me to discover that the best and the most effective learning method is to use MMAT: Motivation, Methodology, Action and Time. &lt;/p&gt;
+&lt;p&gt;Motivation is number one. It’s the answer to a “why?” question. Without it, we won’t do anything else. People who constantly remind themselves of their WHYs are more motivated and can overcome any other difficulties like finding the best methodology. &lt;/p&gt;
+&lt;p&gt;A good methodology (or learning structure and material) is important because without a good strategy and know-how we will drown in a sea of ubiquitous information. We simply will never accomplish our learning goals due to analysis paralysis. And yes, sometimes it take a lot of time to find the best methodology. Don’t get caught up in never ending search. Perfect is the enemy of done so just pick something good enough and stick with it for a while.&lt;/p&gt;
+&lt;p&gt;Next is the action. Action is what separates theory from the real results. Action clarifies. It shows what’s working and what’s not, what’s important and what’s not. Action brings up new questions. Action turns new learning into habits and then into identity (which makes things automatic — a second nature). &lt;/p&gt;
+&lt;p&gt;There are so many fake teachers who never worked in the industry and yet teach people business, marketing, finance, computer science, literature. A lot of their teaching is plain BS that’s better to ignore because it can actually harm the real doers. &lt;/p&gt;
+&lt;p&gt;Lastly, time. Time is needed to soak up the skills, to ruminate, to muse on them to come up with novel ways to think and work. Sometimes it’s more practice and action. Sometimes it’s stepping away and then coming back to the new skill after a short break (e.g., space repetition). &lt;/p&gt;
+&lt;p&gt;The bottom line is that once we’ve acquired the methodology, we should aim to take a lot of action. A lot! And we ought to be prepared to wait, be patient and give time for our new skills to sharpen. It can take years. The luckiest will master the skills and they’ll become second nature. We can remind ourselves of our motivation to keep going.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Wishing a Nice Meal (in Five Languages)</title>
       <link>http://azat.co/blog/nice-meal/</link>
