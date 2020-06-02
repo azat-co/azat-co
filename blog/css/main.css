@@ -96,7 +96,7 @@ hr {
 
 .header a, .header a:hover {
   text-decoration: none;
-  color: #171717;
+  /* color: #171717; */
 }
 
 .header .author {
@@ -124,7 +124,9 @@ body.article-detail > header h1 {
   font-size: 2.5em;
   font-style: italic;
   font-weight: 400;
-  margin-bottom: -0.2em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
 }
 
 body.article-detail > header {
