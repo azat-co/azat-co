@@ -5,13 +5,13 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Fri, 30 Oct 2020 16:17:00 -0700</pubDate>
+    <pubDate>Wed, 07 Oct 2020 16:17:00 -0700</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
       <title>Why Maslow's Pyramid is Wrong</title>
       <link>http://azat.co/blog/maslow/</link>
-      <pubDate>Fri, 30 Oct 2020 16:17:00 -0700</pubDate>
+      <pubDate>Wed, 07 Oct 2020 16:17:00 -0700</pubDate>
       <guid isPermaLink="true">http://azat.co/blog/maslow/</guid>
       <author></author>
       <description>&lt;p&gt;Many of you know Maslow’s pyramid of needs. Actually, Maslow’s never came up with a pyramid. He had a ladder. Other people took his ladder and created a pyramid that is now used in management books. &lt;/p&gt;
