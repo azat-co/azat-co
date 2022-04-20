@@ -5,9 +5,34 @@
     <atom:link href="http://azat.co/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://azat.co</link>
     <description>Azat's personal weblog</description>
-    <pubDate>Wed, 07 Jul 2021 13:50:00 +0000</pubDate>
+    <pubDate>Tue, 19 Apr 2022 22:00:00 +0000</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>My Favorite Video Games</title>
+      <link>http://azat.co/blog/fav-games/</link>
+      <pubDate>Tue, 19 Apr 2022 22:00:00 +0000</pubDate>
+      <guid isPermaLink="true">http://azat.co/blog/fav-games/</guid>
+      <author></author>
+      <description>&lt;ol&gt;
+&lt;li&gt;Civilization II &lt;/li&gt;
+&lt;li&gt;Transport Tycoon&lt;/li&gt;
+&lt;li&gt;Grand Theft Auto: San Andreas&lt;/li&gt;
+&lt;li&gt;Fallout and Fallout 2&lt;/li&gt;
+&lt;li&gt;Dragon Age: Origins&lt;/li&gt;
+&lt;li&gt;Mass Effect 2&lt;/li&gt;
+&lt;li&gt;XCOM: Enemy Unknown&lt;/li&gt;
+&lt;li&gt;Jagged Alliance&lt;/li&gt;
+&lt;li&gt;Europa Universalis&lt;/li&gt;
+&lt;li&gt;Command&amp;amp;Conquer&lt;/li&gt;
+&lt;li&gt;Hitman: Codename 47&lt;/li&gt;
+&lt;li&gt;Heroes of Might and Magic III&lt;/li&gt;
+&lt;li&gt;Tropico: Paradise Island&lt;/li&gt;
+&lt;li&gt;Max Payne&lt;/li&gt;
+&lt;li&gt;GoldenLand 2 (Златогорье 2)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     <item>
       <title>My HEC Paris Journey, Part IX: The Diploma and Final Thoughts</title>
       <link>http://azat.co/blog/hec-paris-9/</link>
