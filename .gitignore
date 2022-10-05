@@ -1,1 +1,5 @@
+#add this file to .gitignore because the name of file is too long
+
+# rename to file at 2022-10-04 to resolve some errors 
+# to push changes in branch and resolve the creation requet
 blog/newbie-forever/*.jpg
